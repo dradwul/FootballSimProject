@@ -1,0 +1,14 @@
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.AssemblyInfoInputs.cache
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.AssemblyInfo.cs
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.csproj.CoreCompileInputs.cache
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\bin\Debug\net7.0\FootballSimProject.exe
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\bin\Debug\net7.0\FootballSimProject.deps.json
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\bin\Debug\net7.0\FootballSimProject.runtimeconfig.json
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\bin\Debug\net7.0\FootballSimProject.dll
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\bin\Debug\net7.0\FootballSimProject.pdb
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.dll
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\refint\FootballSimProject.dll
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.pdb
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\FootballSimProject.genruntimeconfig.cache
+C:\Users\thelu\source\repos\FootballSimProject\FootballSimProject\obj\Debug\net7.0\ref\FootballSimProject.dll
